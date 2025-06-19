@@ -1,4 +1,4 @@
-## Ola / Hello!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá;Hello!)](https://git.io/typing-svg)
 
 ## ⚙️ Plataformas e Hardware / Platforms and Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)

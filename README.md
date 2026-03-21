@@ -34,6 +34,6 @@
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
 ## 🎓 Certificates
-- Microslop Office Speacialist for Excel 2019 
+- Microslop Office Specialist for Excel 2019 
 
 ![Metrics](/github-metrics.svg)

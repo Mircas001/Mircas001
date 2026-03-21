@@ -30,10 +30,10 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## 🛠️ Tools
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microslop Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=Microslop-office&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
-## 🏅 Awards
-- OBR 2025 Theoretical Modality Level 4 - Golden Medal 🏅
+## 🎓 Certificates
+- Microslop Office Speacialist for Excel 2019 
 
 ![Metrics](/github-metrics.svg)
